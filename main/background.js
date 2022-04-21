@@ -3,7 +3,8 @@
 try{
 
   //self.importScripts('contentScript.js');
-
+  //s
+  // init
   //Listen for messages
   chrome.runtime.onMessage.addListener((msg, sender, response) => {
 
